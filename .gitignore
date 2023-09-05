@@ -1,4 +1,4 @@
-.env 
+# .env 
 .netlify
 .DS_Store
 .vercel_build_output
